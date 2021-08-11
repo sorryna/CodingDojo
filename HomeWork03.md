@@ -20,6 +20,6 @@ In case of input data being supplied to the question, it should be assumed to be
 ```
 public interface IHomework03
 {
-    IEnumerable<string> CapitalizedText(IEnumerable<string> text);
+    IEnumerable<string> CapitalizedTexts(IEnumerable<string> text);
 }
 ```
